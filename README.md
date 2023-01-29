@@ -11,7 +11,7 @@
 
 1. This Project is made to predict whether a person is having parkinson's disease or not.
 2. It is being deployed on  SVM ( support vector machine) classification model with accuracy of 83.4% for test data and 86% for training data.
-3. Application is being made using Flask framework , hovered on CICD pipeline with github action
+3. Application is being made using Flask framework , hovered on CICD pipeline with github actionand deployed on Heruko
 
 ### Functionality
 
