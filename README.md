@@ -27,7 +27,7 @@
 
 2. Output
 
-![2](https://user-images.githubusercontent.com/86300718/215318632-19bd6413-77a1-4c6d-864d-6aecb226769b.png)
+![Screenshot 2023-02-02 141705](https://user-images.githubusercontent.com/86300718/216275369-f9b2a876-1ceb-4e88-bb48-6ffaab407ea5.png)
 
 
 
